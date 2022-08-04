@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wolf Messaging</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="this_is_a_sent_message">This is a sent message</string>
+    <string name="this_is_a_recieved_message">This is a recieved message</string>
+</resources>
